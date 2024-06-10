@@ -126,7 +126,7 @@ const Contact = () => {
                       </svg>
                       <span className="sr-only">Info</span>
                       <div>
-                      Thank you for your submission! Your request has been received successfully. We'll get back to you shortly.
+                      Thank you for your submission! Your request has been received successfully. We&apos;ll get back to you shortly.
                       </div>
                     </div>
                   </div>

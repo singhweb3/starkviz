@@ -39,7 +39,7 @@ const AboutSectionTwo = () => {
                 Why Choose Starkviz for Your Digital Needs?
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                At Starkviz, we're all about innovation, quality, and putting you first. We're constantly pushing the limits of what's possible in the digital world to bring you transformative solutions. Our team of experts combines creative design with the latest technology to make stunning and easy-to-use interfaces. <br/><br/>Your needs are our top priority, so we tailor our solutions to exceed your expectations. With a proven track record and a focus on the future, Starkviz is your go-to for top-notch expertise and quality. Let us help take your digital presence to the next level.
+                At Starkviz, we&apos;re all about innovation, quality, and putting you first. We&apos;re constantly pushing the limits of what&apos;s possible in the digital world to bring you transformative solutions. Our team of experts combines creative design with the latest technology to make stunning and easy-to-use interfaces. <br/><br/>Your needs are our top priority, so we tailor our solutions to exceed your expectations. With a proven track record and a focus on the future, Starkviz is your go-to for top-notch expertise and quality. Let us help take your digital presence to the next level.
                 </p>
               </div>
               <div className="w-full px-3">

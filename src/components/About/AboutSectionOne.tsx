@@ -34,7 +34,7 @@ const AboutSectionOne = ({shortDisc}) => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Empower Your Digital Journey with Starkviz Technologies"
+                title="Empower Your Digital Journey"
                 paragraph="Starkviz Technologies is your gateway to innovative digital solutions. We specialize in crafting cutting-edge web and mobile applications, dynamic websites, and powerful browser extensions. Our commitment to quality and innovation ensures your digital presence stands out, delivering exceptional experiences to your users."
                 mb="44px"
               />

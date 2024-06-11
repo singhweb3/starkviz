@@ -36,7 +36,7 @@ const AboutSectionTwo = () => {
             <div className="max-w-[600px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Why Choose Starkviz for Your Digital Needs?
+                Why choose us?
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                 At Starkviz, we&apos;re all about innovation, quality, and putting you first. We&apos;re constantly pushing the limits of what&apos;s possible in the digital world to bring you transformative solutions. Our team of experts combines creative design with the latest technology to make stunning and easy-to-use interfaces. <br/><br/>Your needs are our top priority, so we tailor our solutions to exceed your expectations. With a proven track record and a focus on the future, Starkviz is your go-to for top-notch expertise and quality. Let us help take your digital presence to the next level.
@@ -44,7 +44,7 @@ const AboutSectionTwo = () => {
               </div>
               <div className="w-full px-3">
                     <List text="Your satisfaction is our top priority" />
-                    <List text="Expert team pushing the boundaries of digital possibilities" />
+                    <List text="Expert team expanding digital limits" />
                   </div>
             </div>
           </div>

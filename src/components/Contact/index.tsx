@@ -63,7 +63,7 @@ const Contact = () => {
               "
             >
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
-              Get in Touch / Contact Us
+              Get in Touch
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
               Reach Out to Us for Any Inquiries or Collaborations.

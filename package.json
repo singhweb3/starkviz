@@ -3,12 +3,14 @@
   "version": "2.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev1": "next dev",
     "build": "next build",
-    "start": "next start -p 23546",
-    "lint": "next lint"
+    "lint": "next lint",
+    "dev": "node server.js",
+    "start": "set NODE_ENV=production node server.js"
   },
   "dependencies": {
+    "@next/third-parties": "^14.2.4",
     "axios": "^1.7.2",
     "bcryptjs": "^2.4.3",
     "eslint": "^8.56.0",
